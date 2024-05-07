@@ -2,7 +2,6 @@
 
 # Features:
 - Graphical User Interface: Enjoy playing Pong with a simple yet engaging GUI.
-- Single Player Mode: Play against an AI opponent with adjustable difficulty levels.
 - Two Player Mode: Challenge a friend locally and compete in a thrilling game of Pong.
 - Score Tracking: Keep track of scores for both players throughout the game.
 - Speed Adjustments: Customize the speed of the ball and paddles to suit your preference.
